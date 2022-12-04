@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```js
+import Desenvolvedor from ‘(Ususario)’;
+class  SobreMim extends Desenvolvedor {  
+nome = ‘(Fabrycio Medeiros)’;  
+area =‘(Engenheiro Mecânico, que se apaixonou ao conhecer a programação, e a cada dia vem se aprofundando nesse mundo gigantesco, aluno de Sistemas para Internet no IFPB, objetivando ser Desenvolvedor. )’; 
+ local = ‘(João Pessoa - PB)’;
+}
+class Skills extends Desenvolvedor {  
+linguagens  = [‘(JS, Java, .NET, C#)’];  
+}
+```
