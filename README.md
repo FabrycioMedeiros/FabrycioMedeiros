@@ -12,7 +12,7 @@
 import Desenvolvedor from ‘Fabrycio’;
 class  SobreMim extends Desenvolvedor {  
 
-       nome = ‘Fabrycio Medeiros’;  
+       nome = "Fabrycio Medeiros";  
        
        area =‘Engenheiro Mecânico, que se apaixonou ao conhecer 
        a programação, e a cada dia vem se aprofundando neste mundo gigantesco,
