@@ -2,20 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Fabrycio+Medeiros;I+from+João+Pessoa,+PB;Student+Systems+of+internet;Welcome!)](https://git.io/typing-svg)
 
-<!--
-**FabrycioMedeiros/FabrycioMedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="mailto:fabrycioerico.engmecanico@gmail.com" alt="Gmail">  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=fabrycioerico.engmecanico@gmail.com" />
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    
+<a href=“https://www.linkedin.com/in/fabrycio-erico-medeiros-pcd-66458b182" alt="Linkedin">  
+<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabrycio-erico-medeiros-pcd-66458b182" />
+</a>
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
