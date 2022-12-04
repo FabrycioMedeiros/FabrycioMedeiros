@@ -16,13 +16,17 @@ Here are some ideas to get you started:
 -->
 
 ```js
-import Desenvolvedor from ‘(Ususario)’;
+import Desenvolvedor from ‘Fabrycio’;
 class  SobreMim extends Desenvolvedor {  
-nome = ‘(Fabrycio Medeiros)’;  
-area =‘(Engenheiro Mecânico, que se apaixonou ao conhecer a programação, e a cada dia vem se aprofundando nesse mundo gigantesco, aluno de Sistemas para Internet no IFPB, objetivando ser Desenvolvedor. )’; 
- local = ‘(João Pessoa - PB)’;
+
+       nome = ‘(Fabrycio Medeiros)’;  
+       
+       area =‘(Engenheiro Mecânico, que se apaixonou ao conhecer a programação, e a cada dia vem se aprofundando nesse mundo gigantesco, aluno de Sistemas para Internet no IFPB, objetivando ser Desenvolvedor. )’; 
+      
+      local = ‘(João Pessoa - PB)’;
 }
-class Skills extends Desenvolvedor {  
-linguagens  = [‘(JS, Java, .NET, C#)’];  
+
+     class Skills extends Desenvolvedor { 
+     linguagens  = [‘(JS, Java, .NET, C#)’];  
 }
 ```
