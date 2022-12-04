@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Fabrycio;I+from+João Pessoa,+PB;I+studying+SISTEMAS+PARA+INTERNET;Welcome!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thiago+Kenj;I+from+São+Paulo,+SP;I+graduated+systems+development;Welcome!)](https://git.io/typing-svg)
-
 <!--
 **FabrycioMedeiros/FabrycioMedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
