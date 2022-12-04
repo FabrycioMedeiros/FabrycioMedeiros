@@ -19,15 +19,16 @@ Here are some ideas to get you started:
 import Desenvolvedor from ‘Fabrycio’;
 class  SobreMim extends Desenvolvedor {  
 
-       nome = ‘(Fabrycio Medeiros)’;  
+       nome = ‘Fabrycio Medeiros’;  
        
-       area =‘(Engenheiro Mecânico, que se apaixonou ao conhecer a programação, e a cada dia vem se aprofundando nesse mundo gigantesco,
-       aluno de Sistemas para Internet no IFPB, objetivando ser Desenvolvedor. )’; 
+       area =‘Engenheiro Mecânico, que se apaixonou ao conhecer a programação, e a cada dia vem se aprofundando nesse mundo gigantesco,
+       aluno de Sistemas para Internet no IFPB, objetivando ser Desenvolvedor.’; 
       
-      local = ‘(João Pessoa - PB)’;
+       local = ‘João Pessoa - PB’;
+       objetivo = ‘Aprimorar e desenvolver a cada dia conhecimentos oriundos sobre Desenvolvimento de Sistemas’;
 }
 
      class Skills extends Desenvolvedor { 
-     linguagens  = [‘(JS, Java, .NET, C#)’];  
+     linguagens  = [‘JS, Java, .NET, C#’];  
 }
 ```
