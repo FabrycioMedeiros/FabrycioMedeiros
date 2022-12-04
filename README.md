@@ -25,7 +25,8 @@ class  SobreMim extends Desenvolvedor {
 
        nome = ‘Fabrycio Medeiros’;  
        
-       area =‘Engenheiro Mecânico, que se apaixonou ao conhecer a programação, e a cada dia vem se aprofundando nesse mundo gigantesco,
+       area =‘Engenheiro Mecânico, que se apaixonou ao conhecer 
+       a programação, e a cada dia vem se aprofundando neste mundo gigantesco,
        aluno de Sistemas para Internet no IFPB, objetivando ser Desenvolvedor.’; 
       
        local = ‘João Pessoa - PB’;
@@ -36,3 +37,7 @@ class  SobreMim extends Desenvolvedor {
      linguagens  = [‘JS, Java, .NET, C#’];  
 }
 ```
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FabrycioMedeiros&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Fabrycio Medeiros github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabrycioMedeiros&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
+</div>
