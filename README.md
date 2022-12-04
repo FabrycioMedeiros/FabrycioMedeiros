@@ -30,7 +30,8 @@ class  SobreMim extends Desenvolvedor {
        aluno de Sistemas para Internet no IFPB, objetivando ser Desenvolvedor.’; 
       
        local = ‘João Pessoa - PB’;
-       objetivo = ‘Aprimorar e desenvolver a cada dia conhecimentos oriundos sobre Desenvolvimento de Sistemas’;
+       objetivo = ‘Aprimorar e desenvolver a cada dia conhecimentos oriundos 
+       sobre Desenvolvimento de Sistemas’;
 }
 
      class Skills extends Desenvolvedor { 
