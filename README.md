@@ -14,13 +14,13 @@ class  SobreMim extends Desenvolvedor {
 
        nome = "Fabrycio Medeiros";  
        
-       area =‘Engenheiro Mecânico, que se apaixonou ao conhecer 
+       area ="Engenheiro Mecânico, que se apaixonou ao conhecer 
        a programação, e a cada dia vem se aprofundando neste mundo gigantesco,
-       aluno de Sistemas para Internet no IFPB, objetivando ser Desenvolvedor.’; 
+       aluno de Sistemas para Internet no IFPB, objetivando ser Desenvolvedor."; 
       
-       local = ‘João Pessoa - PB’;
-       objetivo = ‘Aprimorar e desenvolver a cada dia conhecimentos oriundos 
-       sobre Desenvolvimento de Sistemas’;
+       local = "João Pessoa - PB";
+       objetivo = "Aprimorar e desenvolver a cada dia conhecimentos oriundos 
+       sobre Desenvolvimento de Sistemas";
 }
 
      class Skills extends Desenvolvedor { 
