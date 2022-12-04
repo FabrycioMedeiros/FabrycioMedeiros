@@ -33,7 +33,7 @@ class  SobreMim extends Desenvolvedor {
 </div>
   
 <div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
+<br><p align="center"><b>Obrigado e volte sempre!</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{FabrycioMedeiros}/count.svg"/></p> 
 <br></div>
 
