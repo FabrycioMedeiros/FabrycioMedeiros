@@ -16,7 +16,7 @@ class  SobreMim extends Desenvolvedor {
        
        area ="Engenheiro Mecânico, que se apaixonou ao conhecer 
        a programação, e a cada dia vem se aprofundando neste mundo gigantesco,
-       aluno de Sistemas para Internet no IFPB, objetivando ser Desenvolvedor."; 
+       aluno de Sistemas para Internet no IFPB, e Desenvolvedor Backend nas demais horas."; 
       
        local = "João Pessoa - PB";
        objetivo = "Aprimorar e desenvolver a cada dia conhecimentos oriundos 
